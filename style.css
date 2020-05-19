@@ -1,0 +1,45 @@
+Body{
+    background-color:#634fd6;
+}
+#title_whole{
+ background-color:#ccc;
+}
+#all{
+    background-color:#999;
+}
+#main-title{
+    font-size:15px;
+}
+#nav{
+    font-size:15px;
+}
+#logins-form{
+    position:relative;
+    left:425px;
+    bottom:10px;
+}
+#logins-title{
+    position:relative;
+    left:525px;
+    font-size:40px;
+}
+#logins-submit{
+    position:relative;
+    left:600px;
+}
+#Mode{
+    position:relative;
+    left:578px;
+    size:10px;
+}
+#RIG{
+    background-color:#c5ffad;
+    border-color:#708c65;
+    border-width:5px;
+}
+#loginer{
+    position:fixed;
+}
+#{
+   position:fixed; 
+}
